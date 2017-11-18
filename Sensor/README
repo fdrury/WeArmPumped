@@ -1,1 +1,7 @@
-hello world
+Need to get analog input from nRF52-DK
+
+Need to send info over ANT to smartwatch.
+
+Might be eaiser to start with sending data to watch - then I can communicate more easily with board.
+
+May be difficult before app is finished - use nRF apps/tools in meantime.
