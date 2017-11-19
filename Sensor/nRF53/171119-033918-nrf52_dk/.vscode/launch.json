@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "gdb",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "name": "PlatformIO Debugger",
+            "target": "c:/Users/Fred/Documents/PlatformIO/Projects/171119-033918-nrf52_dk/.pioenvs/nrf52_dk/firmware.elf",
+            "gdbpath": "C:/Users/Fred/.platformio/penv/Scripts/piodebuggdb",
+            "autorun": [ "source .pioinit" ]
+        }
+    ]
+}
